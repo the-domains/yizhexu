@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A New Start
-datePublished: '2016-05-09T20:41:16.862Z'
-dateModified: '2016-05-09T20:41:07.947Z'
+datePublished: '2016-05-09T20:42:04.872Z'
+dateModified: '2016-05-09T20:42:04.477Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-a-new-start.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-a-new-start.md
 url: a-new-start/index.html
 _type: Article
 
