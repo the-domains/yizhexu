@@ -1,0 +1,28 @@
+name: Yizhe Grid
+favicon: null
+layout_spectrum: 0.5611788772512227
+typography_spectrum: 0.06275140028446913
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4312582709826529
+  lightness: 0.3447236376814544
+  saturation: 0.2634472642093897
+  rhythmicContrast: 0.9720054052304476
+purpose: []
